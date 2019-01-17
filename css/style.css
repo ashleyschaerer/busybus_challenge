@@ -30,20 +30,20 @@ nav {
 .status-bar {
 float: left;
 width: 375px;
-margin-top: 5px;
+margin-top: -10px;
 display: block;
-margin-left: -10px;
+margin-left: -15px;
 }
 
 .map-section {
-  background-image: url('../image/Map.png');
+  background-image: url('../image/Map02.png');
   background-repeat: no-repeat;
   float: left;
   background-size:contain;
-  height: 320px;
+  height: 248px;
   width: 375px;
-  padding-top: 20px;
   background-attachment: fixed;
+
 }
 
 .restaurant-list {
