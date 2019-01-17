@@ -39,11 +39,10 @@ margin-left: -10px;
   background-image: url('../image/Map.png');
   background-repeat: no-repeat;
   float: left;
-  background-size:contain;
-  height: 320px;
+  background-size: contain;
+  height: 826px;
   width: 375px;
-  padding-top: 20px;
-  background-attachment: fixed;
+  margin-top: 100px;
 }
 
 .restaurant-list {
