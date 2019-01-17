@@ -37,6 +37,8 @@ margin-left: -10px;
 
 .map-section {
   background-image: url('../image/Map.png');
+  background-repeat: no-repeat;
+  float: left;
   background-size:contain;
   height: 320px;
   width: 375px;
