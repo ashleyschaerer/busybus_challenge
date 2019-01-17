@@ -36,19 +36,16 @@ margin-left: -15px;
 }
 
 .map-section {
-  background-image: url('../image/Map02.png');
-  background-repeat: no-repeat;
-  float: left;
   background-size:contain;
-  height: 248px;
+  height: 280px;
   width: 375px;
-  background-attachment: fixed;
+  padding-top: 10%;
 
 }
 
 .restaurant-list {
-  padding-top: 0%;
-  background-color: black;
+  padding-top: 10%;
+  background-color: #979797;
   float: left;
   width: 375px;
 
