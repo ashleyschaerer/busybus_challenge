@@ -16,6 +16,8 @@ body {
 .container {
   margin: 0 auto;
   width: 420px;
+  height: 1061px;
+  overflow: scroll;
 }
 
 nav {
