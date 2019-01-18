@@ -9,7 +9,7 @@ html {
 body {
   background-color: #333;
   font-family: SF Pro Display;
-  font-size: 10px;
+  font-size: 12px;
   color: #293742;
 }
 
@@ -73,13 +73,13 @@ line-height: 150%;
 }
 
 h5 {
+  font-size: 15px;
   line-height: 150%;
   /*background-color: yellow;*/
   text-align: center;
 }
 
 h6 {
-  font-weight: bold;
 
 }
 
@@ -90,6 +90,7 @@ h7 {
 }
 
 h8 {
+  font-size: 12px;
   line-height: 150%;
   color: #DF230F;
 }
@@ -154,7 +155,7 @@ h4 {
   display: block;
   float: right;
   padding: 5px;
-  margin-top: 18px;
+  margin-top: 15px;
   margin-right: 4px;
 
 }
@@ -165,7 +166,7 @@ h4 {
   display: block;
   float: right;
   padding: 5px;
-  margin-top: 7px;
+  margin-top: 8px;
   margin-right: -2px;
   text-align: center;
 
