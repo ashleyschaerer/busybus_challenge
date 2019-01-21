@@ -8,14 +8,14 @@ html {
 
 body {
   background-color: #333;
-  font-family: SF Pro Display;
+  font-family:-apple-system, SF Pro Display, sans-serif;
   font-size: 12px;
   color: #293742;
 }
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 375px;
   height: 667px;
   overflow: scroll;
 }
@@ -43,7 +43,7 @@ margin-left: -15px;
 .map-section {
   background-size:contain;
   height: 280px;
-  width: 375px;
+  width: 100%;
   padding-top: 42px;
 
 }
@@ -55,7 +55,7 @@ margin-left: -15px;
   padding-top: 0%;
   background-color: #979797;
   float: left;
-  width: 375px;
+  width: 100%;
 
 
 }
@@ -83,13 +83,8 @@ h6 {
 
 }
 
-h7 {
-  line-height: 150%;
-  /*background-color: cyan;*/
-  color: #DF230F;
-}
 
-h8 {
+h2 {
   font-size: 12px;
   line-height: 150%;
   color: #DF230F;
@@ -101,18 +96,12 @@ h8 {
   /*padding-top: 5px;
   padding-bottom: 5px;*/
   height: 60px;
-  padding-top: 10px;
-  margin-left: 20px;
+  padding-top: 18px;
+  margin-left: 40px;
   /*background-color: orange;*/
 }
 
-.bus-icon-orange {
-  float: left;
-  width: 40px;
-  display: block;
-  margin-top: 14px;
-  margin-left: 10px;
-}
+
 
 
 .bus-number {
@@ -121,8 +110,8 @@ h8 {
   width: 40px;
   display: block;
   font-size: 25px;
-  padding-top: 18px;
-  margin-left: 0px;
+  padding-top: 25px;
+  margin-left: 5px;
   text-align: center;
 }
 
@@ -155,7 +144,7 @@ h4 {
   display: block;
   float: right;
   padding: 5px;
-  margin-top: 15px;
+  margin-top: 24px;
   margin-right: 4px;
 
 }
@@ -166,20 +155,20 @@ h4 {
   display: block;
   float: right;
   padding: 5px;
-  margin-top: 8px;
-  margin-right: -2px;
+  margin-top: 15px;
+  margin-right: 3px;
   text-align: center;
 
 }
 .location {
-height: 60px;
+height: 75px;
 margin-bottom: 1px;
 padding-top: 0px;
 padding-left: 20px;
 padding-right: 20px;
 display: block;
 box-sizing: border-box;
-width: 375px;
+width: 100%;
 background-color: white;
 
 }
