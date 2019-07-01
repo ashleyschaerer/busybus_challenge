@@ -1,3 +1,2 @@
 # BusyBus challenge
-
-The goal was to code a list-view design appropriate for iOS that incorporates the guidelines for it and the visual styling I applied to the Visual Challenge.
+Created a mobile app screen for BusyBus to show upcoming, delayed and cancelled busses in a major metropolitan area.
